@@ -2,7 +2,7 @@
 
 Generate version 4 UUIDs in four formats using `crypto.randomUUID()` with a template-string fallback, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/uuid-generator
+**Live Demo:** https://file-converter-free.com/en/developer-tools/uuid-generator-online
 
 ## How It Works
 
